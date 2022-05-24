@@ -1,4 +1,0 @@
-repository "TrackArVR@Kriti_k@cloud"
-  path "/"
-    br "/main"
-    co "/main"
