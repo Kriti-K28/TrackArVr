@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/HelloVR 1.unity
+    guid: 676d64d46c3c7e845b4cd606271eaa8b
+  - enabled: 1
+    path: Assets/Scenes/HelloAR 1.unity
+    guid: eabead12a8b08554888a5f2fc424e556
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9434ba469c2ca443903d61f7f751f73,
       type: 2}

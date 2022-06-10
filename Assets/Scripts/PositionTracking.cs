@@ -7,6 +7,7 @@ public class PositionTracking : MonoBehaviour
 {
     private Vector3 origPos;
     public Text test;
+    
     void Start () {
         origPos = gameObject.transform.position;
     }
